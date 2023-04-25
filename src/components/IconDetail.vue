@@ -265,7 +265,7 @@ const collection = computed(() => {
           <button class="btn small mr-1 mb-1 opacity-75" @click="download('svelte')">
             Svelte
           </button>
-          <button class="btn small mr-1 mb-1 opacity-75" @click="download('qwik')">
+          <button class="btn small mr-1 mb-1 opacity-75" @click="download('tsx')">
             Qwik
           </button>
         </div>
